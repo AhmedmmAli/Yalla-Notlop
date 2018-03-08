@@ -1,5 +1,9 @@
 # README
 
+gem devise add to gemfile 
+please run bundle install
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
